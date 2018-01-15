@@ -1,0 +1,6 @@
+<application>
+  <component name="UISettings">
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+  </component>
+</application>
