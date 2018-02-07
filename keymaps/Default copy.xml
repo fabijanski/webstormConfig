@@ -1,6 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="ChangesView.Diff" />
-  <action id="CloseActiveTab">
+  <action id="CloseActiveTab" />
+  <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
