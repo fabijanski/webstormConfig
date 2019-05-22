@@ -1,22 +1,22 @@
 <scheme name="_@user_Material Oceanic" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-10-15T10:04:16</property>
+    <property name="created">2018-01-15T23:56:49</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-10-17T00:51:20</property>
+    <property name="ideVersion">2017.3.2.0.0</property>
+    <property name="modified">2018-01-16T00:18:45</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -44,7 +44,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-    <option name="GUTTER_BACKGROUND" value="2f333d" />
+    <option name="GUTTER_BACKGROUND" value="263238" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="263238" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
@@ -62,7 +62,6 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
-    <option name="TOOLTIP" value="32424a" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="546e7a" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
@@ -190,7 +189,7 @@
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="9688" />
+        <option name="BACKGROUND" value="80cbcf" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
@@ -201,13 +200,13 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4b1515" />
+        <option name="BACKGROUND" value="4b1717" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
       <value>
-        <option name="FOREGROUND" value="9688" />
-        <option name="EFFECT_COLOR" value="9688" />
+        <option name="FOREGROUND" value="80cbc4" />
+        <option name="EFFECT_COLOR" value="80cbc4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -477,7 +476,7 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="9688" />
+        <option name="FOREGROUND" value="80cbc4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -678,20 +677,6 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
-    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="eeffe3" />
-        <option name="EFFECT_COLOR" value="eeffe3" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_REASSIGNED_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
-        <option name="EFFECT_COLOR" value="f78c6c" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -822,7 +807,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="264b33" />
+        <option name="BACKGROUND" value="597f5f" />
       </value>
     </option>
     <option name="Enum name">
@@ -1252,20 +1237,8 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="b0bec5" />
-        <option name="BACKGROUND" value="1e272c" />
-      </value>
-    </option>
-    <option name="INLINE_PARAMETER_HINT_CURRENT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="9688" />
-      </value>
-    </option>
-    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
-      <value>
-        <option name="FOREGROUND" value="b0bec5" />
-        <option name="BACKGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="c792ea" />
+        <option name="BACKGROUND" value="777777" />
       </value>
     </option>
     <option name="IVAR">
@@ -1324,11 +1297,6 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
-    <option name="JS.DEBUGGER_STMT">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
-      </value>
-    </option>
     <option name="JS.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -1337,16 +1305,6 @@
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="eeffe3" />
-      </value>
-    </option>
-    <option name="JS.MODULE_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-      </value>
-    </option>
-    <option name="JS.THIS_SUPER">
-      <value>
-        <option name="FOREGROUND" value="ff4965" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
@@ -2258,7 +2216,6 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="425b67" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b39613" />
         <option name="EFFECT_TYPE" value="1" />
@@ -2660,7 +2617,9 @@
       </value>
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
-      <value />
+      <value>
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
     </option>
     <option name="PHP_SEMICOLON">
       <value>
@@ -3680,7 +3639,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c3cee3" />
-        <option name="BACKGROUND" value="193549" />
+        <option name="BACKGROUND" value="263238" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
