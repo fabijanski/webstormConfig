@@ -1,12 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.1.5.3" />
-    <option name="selectedTheme" value="ONE_DARK" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="highlightThickness" value="4" />
-    <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="00bcd4" />
     <option name="arrowsStyle" value="Darcula" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="highlightThickness" value="4" />
+    <option name="accentColor" value="00bcd4" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="-65cd75d2:16adf4cf3ae:-7ffb" />
+    <option name="version" value="2.1.5.3" />
   </component>
 </application>
