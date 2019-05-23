@@ -10,6 +10,9 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="XDebugger.MoveWatchDown" />
