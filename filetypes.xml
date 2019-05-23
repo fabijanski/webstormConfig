@@ -4,6 +4,7 @@
       <mapping pattern=".env" type="JavaScript" />
       <mapping pattern=".bashrc" type="Native" />
       <mapping pattern=".zshrc2" type="Native" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern="ArmSessionNotification.js" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc___jb_old___" type="PLAIN_TEXT" />
